@@ -5,10 +5,11 @@ Este proyecto contiene tres programas en Java diseñados para trabajar de forma 
 📝 Programas incluidos
 
 LectorTexto
-Crea o lee un archivo de texto (entrada.txt) y muestra su contenido por pantalla.
+Crea o lee un archivo de texto y muestra su contenido por pantalla.
 
 FiltraLineas
 Lee desde la entrada estándar y muestra solo las líneas que superen los 20 caracteres.
 
 ContadorPalabras
+
 Lee desde la entrada estándar y cuenta el número total de palabras, mostrando el resultado final.
