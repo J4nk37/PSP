@@ -2,10 +2,8 @@ package org.example;
 
 import java.io.*;
 
-public class lectorTexto
-{
-    public static void main( String[] args )
-    {
+public class lectorTexto {
+    public static void main( String[] args ) {
         InputStream isr = lectorTexto.class.getClassLoader().getResourceAsStream("entrada.txt");
 
         try {
@@ -22,3 +20,4 @@ public class lectorTexto
     }
 
 }
+
