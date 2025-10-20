@@ -2,8 +2,7 @@ package org.example;
 
 import java.io.*;
 
-public class contadorPalabras
-{
+public class contadorPalabras {
     public static void main(String[] args) {
         int total = 0;
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
@@ -20,3 +19,4 @@ public class contadorPalabras
         }
     }
 }
+
